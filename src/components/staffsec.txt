@@ -1,0 +1,18 @@
+  // <section className="h-[100vh] mt-[10%]">
+        //     <h1 className="text-[2em] bold text-center">OUR STAFF</h1>
+        //     <div className="flex flex-col h-[90%]">
+        //     <div className="h-[100%] w-[100%] flex justify-between items-center" >
+        //         <div className="border w-[30%] h-[80%]">
+        //             {/* <div className="h-[70%] bg-[yellow]"></div>
+        //             <div></div> */}
+        //         </div>
+        //         <div className="border w-[30%] h-[80%]">a</div>
+        //         <div className="border w-[30%] h-[80%]">a</div>
+        //     </div>
+        //     <div className="h-[100%] w-[100%] flex justify-between items-center" >
+        //         <div className="border w-[30%] h-[80%]">a</div>
+        //         <div className="border w-[30%] h-[80%]">a</div>
+        //         <div className="border w-[30%] h-[80%]">a</div>
+        //     </div>
+        //     </div>
+        // </section >
